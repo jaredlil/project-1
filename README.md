@@ -45,5 +45,5 @@ https://github.com/jaredlil/project-1/blob/master/images/weather_condition.png
 
 Given the analysis, investing in aircraft with multiple engines, avoiding planes with reciprocating engines, and advanced safety procedures suitable for all weather conditions is recommended. Continuous training and adherence to updated safety protocols will further ensure the safety and efficiency of operations.
 
-## Non-techincal presentation  
+## Non-technical presentation  
 https://docs.google.com/presentation/d/195eO_pPD-DcRXu2HKdddxrqgmtJnsPZkhi0ciit9m1k/edit#slide=id.p10
