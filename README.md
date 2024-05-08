@@ -20,11 +20,14 @@ Visualizations:
 
 https://public.tableau.com/app/profile/jared.lilly/viz/Phase-1-Project/AirplaneSafetyAnalysis?publish=yes
 
-<ins> Injuries by Number of Engines:<ins> Bar charts showing injury outcomes relative to the number of engines on board demonstrate that aircraft with three or more engines tend to have lower rates of fatal injuries.
-<ins>Fatal Injuries by Broad Phase of Flight:<ins> Line charts displaying the distribution of fatal injuries across different flight phases highlight increased risks during Maneuvering, Takeoff, and Cruise phases.
-<ins>Impact of Weather Conditions on Flight Safety:<ins> Bar charts comparing injury ratios under Visual Meteorological Conditions (VMC) and Instrument Meteorological Conditions (IMC) illustrate that flights in IMC conditions experience a higher frequency of severe injuries.
+ Injuries by Number of Engines: Bar charts showing injury outcomes relative to the number of engines on board demonstrate that aircraft with three or more engines tend to have lower rates of fatal injuries.
 
-    ## Conclusion
+
+Fatal Injuries by Broad Phase of Flight: Line charts displaying the distribution of fatal injuries across different flight phases highlight increased risks during Maneuvering, Takeoff, and Cruise phases.
+    
+Impact of Weather Conditions on Flight Safety: Bar charts comparing injury ratios under Visual Meteorological Conditions (VMC) and Instrument Meteorological Conditions (IMC) illustrate that flights in IMC conditions experience a higher frequency of severe injuries.
+
+# Conclusion
 ## Key Insights for Aircraft Acquisition:
 
  * Engine Configuration: Multiple-engine configurations, especially those with three or more engines, are associated with enhanced safety and reduced fatality rates. It is advisable to prioritize aircraft with such configurations for new acquisitions.
