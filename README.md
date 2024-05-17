@@ -22,16 +22,15 @@ Interactive Tableau Dashboard
 https://public.tableau.com/app/profile/jared.lilly/viz/Phase-1-Project/AirplaneSafetyAnalysis?publish=yes
 
 Injuries by Number of Engines: Bar charts showing injury outcomes relative to the number of engines on board demonstrate that aircraft with three or more engines tend to have lower rates of fatal injuries.
-https://github.com/jaredlil/project-1/blob/master/images/number_of_engines.png
+![engine type](images/number_of_engines.png)
 
 Engine Type: Bubble graph comparing by size the fatal injuries incurred by accidents organized by engine type. 
-https://github.com/jaredlil/project-1/blob/master/images/weather_condition.png
+![engine type](images/injuries_by_engine_type.png)
 
 Fatal Injuries by Broad Phase of Flight: Line charts displaying the distribution of fatal injuries across different flight phases highlight increased risks during Maneuvering, Takeoff, and Cruise phases.
-https://github.com/jaredlil/project-1/blob/master/images/phase_of_flight_by_engine_number.png
-
+![phase_of_flight](images/phase_of_flight.png)
 Impact of Weather Conditions on Flight Safety: Bar charts comparing injury ratios under Visual Meteorological Conditions (VMC) and Instrument Meteorological Conditions (IMC) illustrate that flights in IMC conditions experience a higher frequency of severe injuries.
-https://github.com/jaredlil/project-1/blob/master/images/weather_condition.png
+![weather condition](images/weather_condition.png)
 
 # Conclusion
 ## Key Insights for Aircraft Acquisition:
