@@ -44,9 +44,6 @@ Impact of Weather Conditions on Flight Safety: Bar charts comparing injury ratio
 
 Given the analysis, investing in aircraft with multiple engines, avoiding planes with reciprocating engines, and advanced safety procedures suitable for all weather conditions is recommended. Continuous training and adherence to updated safety protocols will further ensure the safety and efficiency of operations.
 
-## Non-technical presentation 
-[Non-technical presentation slides](Non-Technical Presentation.pdf)
-
 ## Outline of Repository
 - Checkpoints
 - Images
@@ -64,6 +61,10 @@ Given the analysis, investing in aircraft with multiple engines, avoiding planes
 -README.md\
 -dsc-phase-1-project.ipynb\
 -Non-Technical Presentation\
+
+## Non-technical presentation 
+![Non-technical presentation slides](https://github.com/jaredlil/project-1/blob/master/Non-Technical%20Presentation.pdf)
+
 ## Link to Personal Data Blog
 https://datasciencedigested.blogspot.com/2024/05/data-analysis-or-intuition.html
 
